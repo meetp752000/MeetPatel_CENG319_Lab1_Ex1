@@ -1,0 +1,16 @@
+<resources>
+    <!-- String for Activites-->
+    <string name="OnCreate">OnCreate exécuté</string>
+    <string name="OnStart">OnStart exécuté</string>
+    <string name="OnRestart">OnRestart exécuté</string>
+    <string name="OnResume">OnResume exécuté</string>
+    <string name="OnPause">OnPause exécuté</string>
+    <string name="OnStop">OnStop exécuté</string>
+    <string name="OnDestroy">OnDestroy exécuté</string>
+
+    <string name="Activity1">Activité Al</string>
+    <string name="Activity2">VRAcitivité</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">MeetPatel_CENG319_Lab1_Ex1</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1.0">
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="com.example.meetpatel_ceng319_lab1_ex1.FragmentList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        />
+
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.meetpatel_ceng319_lab1_ex1.TextOfFragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <!-- String for Activites-->
+    <string name="OnCreate">OnCreate executed</string>
+    <string name="OnStart">OnStart executed</string>
+    <string name="OnRestart">OnRestart executed</string>
+    <string name="OnResume">OnResume executed</string>
+    <string name="OnPause">OnPause executed</string>
+    <string name="OnStop">OnStop executed</string>
+    <string name="OnDestroy">OnDestroy executed</string>
+
+    <string name="Activity1">AlActivity</string>
+    <string name="Activity2">VRAcitivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">MeetPatel_CENG319_Lab1_Ex1</string>
+</resources>
